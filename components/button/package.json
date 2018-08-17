@@ -1,0 +1,7 @@
+{
+  "name": "@pigmice/button",
+  "version": "0.0.0",
+  "dependencies": {
+    "preact": "8.3.1"
+  }
+}
