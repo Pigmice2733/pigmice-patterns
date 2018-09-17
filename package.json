@@ -2,10 +2,10 @@
   "private": true,
   "name": "pigmice-patterns",
   "devDependencies": {
-    "@babel/core": "7.0.1",
-    "@babel/plugin-transform-modules-commonjs": "7.0.0",
+    "@babel/core": "7.1.0",
+    "@babel/plugin-transform-modules-commonjs": "7.1.0",
     "@babel/plugin-transform-react-jsx": "7.0.0",
-    "@babel/preset-typescript": "7.0.0",
+    "@babel/preset-typescript": "7.1.0",
     "@types/jest": "23.3.2",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "23.6.0",
